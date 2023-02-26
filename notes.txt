@@ -1,0 +1,18 @@
+collecting user inputs
+
+1)deposit money from the user
+2)bet 
+
+
+collect the bet from the user
+1)call the deposit function in a new main function as balance
+2)determine how much the user wants to bet?
+3)how many lines the user wants to bet on
+4)multilpy the bet amount by the number of lines
+
+get the number of lines
+1)same as amount
+check if digit 
+check if in range
+
+get bet on each line
